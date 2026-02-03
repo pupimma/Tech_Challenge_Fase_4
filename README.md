@@ -127,24 +127,6 @@ Execute todas as células ("Run All").
 
 O novo modelo será salvo na pasta automaticamente.
 
----
-
-**Como Executar com Docker (Opcional)**
-
-Este projeto também está conteinerizado. Se você tiver o Docker instalado, pode rodar a aplicação sem instalar nada no seu Python local:
-
-1. **Construir a Imagem:**
-```bash
-docker build -t app-obesidade .
-```
-
-1. **Rodar o Container**
-docker run -p 8501:8501 app-obesidade
-
-```text
-Acesse em: http://localhost:8501
-```
-
 ***Deploy em Nuvem (Streamlit Cloud)***
 A aplicação encontra-se implantada e acessível publicamente através do Streamlit Cloud.
 
@@ -153,4 +135,5 @@ Link de Acesso: https://monitor-obesidade-ml.streamlit.app/
 ```
 
 **FIAP - Tech Challenge Fase 4**
+
 
