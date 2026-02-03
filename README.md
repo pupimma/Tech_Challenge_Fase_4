@@ -127,6 +127,7 @@ Execute todas as células ("Run All").
 
 O novo modelo será salvo na pasta automaticamente.
 
+
 ***Deploy em Nuvem (Streamlit Cloud)***
 A aplicação encontra-se implantada e acessível publicamente através do Streamlit Cloud.
 
@@ -135,5 +136,6 @@ Link de Acesso: https://monitor-obesidade-ml.streamlit.app/
 ```
 
 **FIAP - Tech Challenge Fase 4**
+
 
 
