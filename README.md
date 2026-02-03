@@ -131,9 +131,8 @@ O novo modelo será salvo na pasta automaticamente.
 A aplicação encontra-se implantada e acessível publicamente através do Streamlit Cloud.
 
 ```text
-Link de Acesso: https://obbesidade-ml.streamlit.app/
+Link de Acesso: https://monitor-obesidade-ml.streamlit.app/
 ```
 
 **FIAP - Tech Challenge Fase 4**
-
 
